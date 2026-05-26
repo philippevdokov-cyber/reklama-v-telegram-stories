@@ -1,36 +1,50 @@
-# TON Stories
+# TON Stories: реклама в Telegram Stories
 
-TON Stories is a Telegram-first advertising concept for brands, creators, and channel owners who want to promote offers through Telegram Stories.
+TON Stories — публичное описание концепции сервиса для рекламы в Telegram Stories. Проект ориентирован на бренды, предпринимателей, агентства и владельцев Telegram-аудиторий, которым нужно понятное продвижение в Telegram без сложной ручной координации.
 
-The public goal of the project is simple: make Telegram Stories advertising easier to plan, launch, and understand without forcing advertisers to manage every operational detail themselves.
+Этот репозиторий создан для SEO и общего описания продукта. Здесь нет рабочего кода, приватной логики, API-ключей, токенов, паролей, баз данных, внутренних промптов или инструкций по запуску реальной системы.
 
-## What TON Stories Is
+## Что это
 
-TON Stories is positioned as a marketplace and support flow for Telegram Stories advertising. It focuses on helping advertisers move from campaign intent to a published Telegram Story through a guided Telegram-native process.
+TON Stories — Telegram-first концепция рекламного маркетплейса для размещений в Telegram Stories. Идея продукта — помочь рекламодателю быстрее перейти от запроса на продвижение к понятному сценарию размещения в Telegram Stories.
 
-The project is designed around:
+Проект связан с такими задачами, как:
 
-- Telegram Stories advertising
-- creator and channel placements
-- campaign coordination
-- simple status updates
-- story publication support
-- performance-oriented ad communication
+- реклама в Telegram Stories;
+- продвижение в Telegram;
+- реклама в Телеграм для бизнеса;
+- подбор Telegram-размещений;
+- коммуникация по рекламной кампании внутри Telegram;
+- понятный статус подготовки и публикации сторис.
 
-## Who It Is For
+## Для кого
 
-- businesses promoting products in Telegram
-- founders testing Telegram-native acquisition
-- creators and channel owners with story inventory
-- agencies looking for Telegram Stories placements
-- Web3, fintech, SaaS, education, and local service teams using Telegram as a growth channel
+TON Stories может быть полезен:
 
-## Public Repository Scope
+- компаниям, которые хотят тестировать рекламу в Telegram Stories;
+- основателям и маркетологам, которым нужен Telegram как канал привлечения;
+- агентствам, работающим с Telegram-рекламой;
+- владельцам каналов и авторам, у которых есть аудитория для story-размещений;
+- Web3, fintech, SaaS, education и локальным сервисам, где Telegram уже важен для продаж.
 
-This repository is a public SEO and product overview. It is not the production source code, not an installation package, and not an operational manual.
+## Какую задачу решает
 
-No private implementation, credentials, deployment configuration, database structure, internal prompts, or business-sensitive automation logic is included here.
+Реклама в Telegram часто требует ручных договоренностей, проверки площадок, подготовки креатива и контроля публикации. TON Stories описывает продуктовый подход, где рекламодатель получает более понятный путь: сформулировать задачу, согласовать размещение и отслеживать этапы кампании в Telegram-native формате.
 
-## Keywords
+## Безопасность публичного репозитория
 
-Telegram Stories advertising, Telegram ads, Telegram marketing, TON Stories, Telegram Stories marketplace, Telegram promotion, creator advertising, channel advertising.
+Публичный репозиторий не является исходным кодом продукта и не предназначен для установки. Он содержит только высокоуровневое описание для поиска, ознакомления и публичного позиционирования.
+
+В репозитории намеренно отсутствуют:
+
+- production source code;
+- API-ключи, bot tokens, пароли и секреты;
+- персональные данные;
+- приватные алгоритмы и бизнес-логика;
+- базы данных и аналитические выгрузки;
+- deployment-конфигурации;
+- внутренние промпты и операционные инструкции.
+
+## Ключевые запросы
+
+Реклама в Telegram Stories, продвижение в Telegram, реклама в Телеграм, Telegram Stories реклама, маркетплейс рекламы Telegram Stories, продвижение через Telegram Stories, реклама в Telegram для бизнеса.
